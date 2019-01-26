@@ -1,10 +1,12 @@
 
 <li>
-	{{burger_name}}
+	<div class="row">
+<div class="col-md-8">{{burger_name}}</div>	
+<div class="col-md-2"><button class="change-devoured" data-id="{{id}}" data-newdevoured="{{devour}}">
+		{{#if devoured}}order more!{{else}}devore!{{/if}}
+	</button></div>	
 
-	<button class="change-devoured" data-id="{{id}}" data-newdevoured="{{devour}}">
-		{{#if devoured}}un devore!{{else}}devore!{{/if}}
-	</button>
+<div class="col-md-2"><button class="delete-burger" data-id="{{this.id}}">DELETE!</button></div>	
 
-	<button class="delete-burger" data-id="{{this.id}}">DELETE!</button>
+</div>
 </li>
