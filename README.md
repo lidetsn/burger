@@ -19,7 +19,7 @@ Technology used
  
   It follows the MVC design pattern; and  use Node and MySQL to query and route data , and Handlebars to generate the HTML.
 
-you can find the video how the app works 
+i attached  the link to the video below that show how the app works 
 
 video: https://drive.google.com/file/d/1NpB0n-GHdUeJlBB9MFLNy2Q3rOpdHYMD/view
 
