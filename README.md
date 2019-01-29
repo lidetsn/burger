@@ -1,5 +1,5 @@
 #  
-(deployed Heroku link   (https://desolate-sierra-95836.herokuapp.com/)
+( Heroku deployed link   (https://desolate-sierra-95836.herokuapp.com/)
 
 # Eat-Da-Burger! 
    Eat-Da-Burger is a restaurant app that lets users input the names of burgers they'd like to eat.
