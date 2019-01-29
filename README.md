@@ -9,7 +9,7 @@
 
 * The app store every burger in a database, whether devoured or not unless it is deleted.
 
-technology used
+Technology used
  * MySQL, 
  * Node, 
  * Express, 
@@ -24,4 +24,5 @@ you can find the video how the app works
 video: https://drive.google.com/file/d/1NpB0n-GHdUeJlBB9MFLNy2Q3rOpdHYMD/view
 
 enjoy 
+
 author Lidetu s N
