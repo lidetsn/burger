@@ -5,7 +5,7 @@
 
 * Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured .
 
-* Each burger in the waiting area also has a `Devour it!` and `Delete!` button. When the user clicks `Devour it!`, the burger will move to the right side of the page. When the user clicks `Delete!`, the burger will be deleted just in case when you want to change your mind :). 
+* Each burger in the waiting area also has a `Devour it!` and `Delete!` button. When the user clicks `Devour it!`, the burger will move to the right side of the page. When the user clicks `Delete!`, the burger will be deleted (just in case when you want to change your mind :). )
 
 * The app store every burger in a database, whether devoured or not unless it is deleted.
 
